@@ -2,6 +2,7 @@ vimrc
 =====
 runtime! debian.vim
 set hlsearch
+set nu
 "设置编码
 set encoding=utf-8
 set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
